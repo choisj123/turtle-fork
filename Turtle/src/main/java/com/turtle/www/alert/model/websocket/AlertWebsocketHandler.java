@@ -21,8 +21,7 @@ public class AlertWebsocketHandler extends TextWebSocketHandler {
 	@Autowired
 	private AlertService service;
 	
-	private Set<WebSocketSession> sessions
-	= Collections.synchronizedSet(new HashSet<WebSocketSession>());
+	private Set<WebSocketSession> sessions = Collections.synchronizedSet(new HashSet<WebSocketSession>());
 	
 	
 	// 클라이언트와 연결이 완료되고, 통신할 준비가 되면 수행
@@ -36,6 +35,7 @@ public class AlertWebsocketHandler extends TextWebSocketHandler {
 			// WebSocketSession을 Set에 추가
 		}
 		
+		// 깃 테스트
 		// 클라이언트로부터 텍스트 메세지를 전달 받았을 때 수행
 		@Override
 		protected void handleTextMessage(WebSocketSession session, TextMessage message) throws Exception {

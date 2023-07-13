@@ -1,0 +1,1033 @@
+2023-07-10 00:14:02 [INFO] callback 들어옴
+2023-07-10 00:14:02 [INFO] 체크 실행
+2023-07-10 00:14:02 [INFO] ---------------------------------------
+Start : MemberServiceImpl - checkNaverFl
+Parameter : [hohosuu@naver.com]
+ip : 127.0.0.1 (email : 98chltnwls@gmail.com)
+2023-07-10 00:14:02 [INFO] Return Value : 1
+2023-07-10 00:14:02 [INFO] Running Time : 67ms
+2023-07-10 00:14:02 [INFO] End : MemberServiceImpl - checkNaverFl
+---------------------------------------------
+
+2023-07-10 00:14:02 [INFO] 네이버 체크 : 1
+2023-07-10 00:14:02 [INFO] 토큰교체 실행
+2023-07-10 00:14:02 [INFO] ---------------------------------------
+Start : MemberServiceImpl - changeToken
+Parameter : [{socialEmail=hohosuu@naver.com, accessToken=AAAANwCluJeHmUNiG9qK9oq1sey_6-mSVpLvSzCl9TjY6ndkjXNpzJK9uMTT-0-DjiEgcAfk0sPmSpSpMoKfw988MWg}]
+ip : 127.0.0.1 (email : 98chltnwls@gmail.com)
+2023-07-10 00:14:02 [INFO] Return Value : 1
+2023-07-10 00:14:02 [INFO] Running Time : 56ms
+2023-07-10 00:14:02 [INFO] End : MemberServiceImpl - changeToken
+---------------------------------------------
+
+2023-07-10 00:14:02 [INFO] ---------------------------------------
+Start : MemberServiceImpl - getMember
+Parameter : [51]
+ip : 127.0.0.1 (email : 98chltnwls@gmail.com)
+2023-07-10 00:14:02 [INFO] Return Value : Member(memberNo=51, memberEmail=hohosuu@naver.com, memberPw=null, memberName=최수진, memberGit=null, profileImage=https://phinf.pstatic.net/contact/20220815_206/1660536568502X3Tdj_PNG/profileImage.png, enrollDate=null, memberDeleteFG=null, socialEmail=hohosuu@naver.com, accessToken=null, isSocialMember=null)
+2023-07-10 00:14:02 [INFO] Running Time : 41ms
+2023-07-10 00:14:02 [INFO] End : MemberServiceImpl - getMember
+---------------------------------------------
+
+2023-07-10 00:14:02 [INFO] ---------------------------------------
+Start : ProjectServiceImpl - selectMyProjectNo
+Parameter : [51]
+ip : 127.0.0.1 (email : 98chltnwls@gmail.com)
+2023-07-10 00:14:02 [INFO] Return Value : 425
+2023-07-10 00:14:02 [INFO] Running Time : 91ms
+2023-07-10 00:14:02 [INFO] End : ProjectServiceImpl - selectMyProjectNo
+---------------------------------------------
+
+2023-07-10 00:14:04 [INFO] 로그아웃 수행됨
+2023-07-10 09:08:16 [INFO] 초기화 필터 파괴
+2023-07-10 09:09:34 [INFO] 초기화 필터 생성
+2023-07-10 09:20:45 [INFO] callback 들어옴
+2023-07-10 09:20:45 [INFO] 체크 실행
+2023-07-10 09:20:45 [INFO] ---------------------------------------
+Start : MemberServiceImpl - checkNaverFl
+Parameter : [hohosuu@naver.com]
+ip : 127.0.0.1
+2023-07-10 09:20:49 [INFO] Return Value : 1
+2023-07-10 09:20:49 [INFO] Running Time : 4058ms
+2023-07-10 09:20:49 [INFO] End : MemberServiceImpl - checkNaverFl
+---------------------------------------------
+
+2023-07-10 09:20:49 [INFO] 네이버 체크 : 1
+2023-07-10 09:20:49 [INFO] 토큰교체 실행
+2023-07-10 09:20:49 [INFO] ---------------------------------------
+Start : MemberServiceImpl - changeToken
+Parameter : [{socialEmail=hohosuu@naver.com, accessToken=AAAANyG-PcXuOb1KQqtF9qY9tXJgSzw6sA_nTcqjhugarIYFbd2HXdohEiD-1GSTyaim2kvLVufwp4sRWp4IRZFJci0}]
+ip : 127.0.0.1
+2023-07-10 09:20:49 [INFO] Return Value : 1
+2023-07-10 09:20:49 [INFO] Running Time : 94ms
+2023-07-10 09:20:49 [INFO] End : MemberServiceImpl - changeToken
+---------------------------------------------
+
+2023-07-10 09:20:49 [INFO] ---------------------------------------
+Start : MemberServiceImpl - getMember
+Parameter : [51]
+ip : 127.0.0.1
+2023-07-10 09:20:49 [INFO] Return Value : Member(memberNo=51, memberEmail=hohosuu@naver.com, memberPw=null, memberName=최수진, memberGit=null, profileImage=https://phinf.pstatic.net/contact/20220815_206/1660536568502X3Tdj_PNG/profileImage.png, enrollDate=null, memberDeleteFG=null, socialEmail=hohosuu@naver.com, accessToken=null, isSocialMember=null)
+2023-07-10 09:20:49 [INFO] Running Time : 29ms
+2023-07-10 09:20:49 [INFO] End : MemberServiceImpl - getMember
+---------------------------------------------
+
+2023-07-10 09:20:49 [INFO] ---------------------------------------
+Start : ProjectServiceImpl - selectMyProjectNo
+Parameter : [51]
+ip : 127.0.0.1
+2023-07-10 09:20:49 [INFO] Return Value : 425
+2023-07-10 09:20:49 [INFO] Running Time : 145ms
+2023-07-10 09:20:49 [INFO] End : ProjectServiceImpl - selectMyProjectNo
+---------------------------------------------
+
+2023-07-10 09:21:48 [INFO] callback 들어옴
+2023-07-10 09:21:48 [INFO] 체크 실행
+2023-07-10 09:21:48 [INFO] ---------------------------------------
+Start : MemberServiceImpl - checkNaverFl
+Parameter : [hohosuu@naver.com]
+ip : 127.0.0.1 (email : hohosuu@naver.com)
+2023-07-10 09:21:48 [INFO] Return Value : 1
+2023-07-10 09:21:48 [INFO] Running Time : 129ms
+2023-07-10 09:21:48 [INFO] End : MemberServiceImpl - checkNaverFl
+---------------------------------------------
+
+2023-07-10 09:21:48 [INFO] 네이버 체크 : 1
+2023-07-10 09:21:48 [INFO] 토큰교체 실행
+2023-07-10 09:21:48 [INFO] ---------------------------------------
+Start : MemberServiceImpl - changeToken
+Parameter : [{socialEmail=hohosuu@naver.com, accessToken=AAAANyG-PcXuOb1KQqtF9qY9tXJgSzw6sA_nTcqjhugarIYFbd2HXdohEiD-1GSTyaim2kvLVufwp4sRWp4IRZFJci0}]
+ip : 127.0.0.1 (email : hohosuu@naver.com)
+2023-07-10 09:21:48 [INFO] Return Value : 1
+2023-07-10 09:21:48 [INFO] Running Time : 25ms
+2023-07-10 09:21:48 [INFO] End : MemberServiceImpl - changeToken
+---------------------------------------------
+
+2023-07-10 09:21:48 [INFO] ---------------------------------------
+Start : MemberServiceImpl - getMember
+Parameter : [51]
+ip : 127.0.0.1 (email : hohosuu@naver.com)
+2023-07-10 09:21:48 [INFO] Return Value : Member(memberNo=51, memberEmail=hohosuu@naver.com, memberPw=null, memberName=최수진, memberGit=null, profileImage=https://phinf.pstatic.net/contact/20220815_206/1660536568502X3Tdj_PNG/profileImage.png, enrollDate=null, memberDeleteFG=null, socialEmail=hohosuu@naver.com, accessToken=null, isSocialMember=null)
+2023-07-10 09:21:48 [INFO] Running Time : 22ms
+2023-07-10 09:21:48 [INFO] End : MemberServiceImpl - getMember
+---------------------------------------------
+
+2023-07-10 09:21:48 [INFO] ---------------------------------------
+Start : ProjectServiceImpl - selectMyProjectNo
+Parameter : [51]
+ip : 127.0.0.1 (email : hohosuu@naver.com)
+2023-07-10 09:21:48 [INFO] Return Value : 425
+2023-07-10 09:21:48 [INFO] Running Time : 41ms
+2023-07-10 09:21:48 [INFO] End : ProjectServiceImpl - selectMyProjectNo
+---------------------------------------------
+
+2023-07-10 09:21:54 [INFO] 로그아웃 수행됨
+2023-07-10 09:24:37 [INFO] callback 들어옴
+2023-07-10 09:24:37 [INFO] 체크 실행
+2023-07-10 09:24:37 [INFO] ---------------------------------------
+Start : MemberServiceImpl - checkNaverFl
+Parameter : [hohosuu@naver.com]
+ip : 127.0.0.1
+2023-07-10 09:24:38 [INFO] Return Value : 1
+2023-07-10 09:24:38 [INFO] Running Time : 227ms
+2023-07-10 09:24:38 [INFO] End : MemberServiceImpl - checkNaverFl
+---------------------------------------------
+
+2023-07-10 09:24:38 [INFO] 네이버 체크 : 1
+2023-07-10 09:24:38 [INFO] 토큰교체 실행
+2023-07-10 09:24:38 [INFO] ---------------------------------------
+Start : MemberServiceImpl - changeToken
+Parameter : [{socialEmail=hohosuu@naver.com, accessToken=AAAANyG-PcXuOb1KQqtF9qY9tXJgSzw6sA_nTcqjhugarIYFbd2HXdohEiD-1GSTyaim2kvLVufwp4sRWp4IRZFJci0}]
+ip : 127.0.0.1
+2023-07-10 09:24:38 [INFO] Return Value : 1
+2023-07-10 09:24:38 [INFO] Running Time : 29ms
+2023-07-10 09:24:38 [INFO] End : MemberServiceImpl - changeToken
+---------------------------------------------
+
+2023-07-10 09:24:38 [INFO] ---------------------------------------
+Start : MemberServiceImpl - getMember
+Parameter : [51]
+ip : 127.0.0.1
+2023-07-10 09:24:38 [INFO] Return Value : Member(memberNo=51, memberEmail=hohosuu@naver.com, memberPw=null, memberName=최수진, memberGit=null, profileImage=https://phinf.pstatic.net/contact/20220815_206/1660536568502X3Tdj_PNG/profileImage.png, enrollDate=null, memberDeleteFG=null, socialEmail=hohosuu@naver.com, accessToken=null, isSocialMember=null)
+2023-07-10 09:24:38 [INFO] Running Time : 29ms
+2023-07-10 09:24:38 [INFO] End : MemberServiceImpl - getMember
+---------------------------------------------
+
+2023-07-10 09:24:38 [INFO] ---------------------------------------
+Start : ProjectServiceImpl - selectMyProjectNo
+Parameter : [51]
+ip : 127.0.0.1
+2023-07-10 09:24:38 [INFO] Return Value : 425
+2023-07-10 09:24:38 [INFO] Running Time : 39ms
+2023-07-10 09:24:38 [INFO] End : ProjectServiceImpl - selectMyProjectNo
+---------------------------------------------
+
+2023-07-10 09:26:15 [INFO] callback 들어옴
+2023-07-10 09:26:15 [INFO] 체크 실행
+2023-07-10 09:26:15 [INFO] ---------------------------------------
+Start : MemberServiceImpl - checkNaverFl
+Parameter : [hohosuu@naver.com]
+ip : 127.0.0.1 (email : hohosuu@naver.com)
+2023-07-10 09:26:15 [INFO] Return Value : 1
+2023-07-10 09:26:15 [INFO] Running Time : 66ms
+2023-07-10 09:26:15 [INFO] End : MemberServiceImpl - checkNaverFl
+---------------------------------------------
+
+2023-07-10 09:26:15 [INFO] 네이버 체크 : 1
+2023-07-10 09:26:15 [INFO] 토큰교체 실행
+2023-07-10 09:26:15 [INFO] ---------------------------------------
+Start : MemberServiceImpl - changeToken
+Parameter : [{socialEmail=hohosuu@naver.com, accessToken=AAAANyG-PcXuOb1KQqtF9qY9tXJgSzw6sA_nTcqjhugarIYFbd2HXdohEiD-1GSTyaim2kvLVufwp4sRWp4IRZFJci0}]
+ip : 127.0.0.1 (email : hohosuu@naver.com)
+2023-07-10 09:26:15 [INFO] Return Value : 1
+2023-07-10 09:26:15 [INFO] Running Time : 191ms
+2023-07-10 09:26:15 [INFO] End : MemberServiceImpl - changeToken
+---------------------------------------------
+
+2023-07-10 09:26:15 [INFO] ---------------------------------------
+Start : MemberServiceImpl - getMember
+Parameter : [51]
+ip : 127.0.0.1 (email : hohosuu@naver.com)
+2023-07-10 09:26:15 [INFO] Return Value : Member(memberNo=51, memberEmail=hohosuu@naver.com, memberPw=null, memberName=최수진, memberGit=null, profileImage=https://phinf.pstatic.net/contact/20220815_206/1660536568502X3Tdj_PNG/profileImage.png, enrollDate=null, memberDeleteFG=null, socialEmail=hohosuu@naver.com, accessToken=null, isSocialMember=null)
+2023-07-10 09:26:15 [INFO] Running Time : 36ms
+2023-07-10 09:26:15 [INFO] End : MemberServiceImpl - getMember
+---------------------------------------------
+
+2023-07-10 09:26:15 [INFO] ---------------------------------------
+Start : ProjectServiceImpl - selectMyProjectNo
+Parameter : [51]
+ip : 127.0.0.1 (email : hohosuu@naver.com)
+2023-07-10 09:26:15 [INFO] Return Value : 425
+2023-07-10 09:26:15 [INFO] Running Time : 62ms
+2023-07-10 09:26:15 [INFO] End : ProjectServiceImpl - selectMyProjectNo
+---------------------------------------------
+
+2023-07-10 09:26:33 [INFO] callback 들어옴
+2023-07-10 09:26:33 [INFO] 체크 실행
+2023-07-10 09:26:33 [INFO] ---------------------------------------
+Start : MemberServiceImpl - checkNaverFl
+Parameter : [hohosuu@naver.com]
+ip : 127.0.0.1
+2023-07-10 09:26:34 [INFO] Return Value : 1
+2023-07-10 09:26:34 [INFO] Running Time : 437ms
+2023-07-10 09:26:34 [INFO] End : MemberServiceImpl - checkNaverFl
+---------------------------------------------
+
+2023-07-10 09:26:34 [INFO] 네이버 체크 : 1
+2023-07-10 09:26:34 [INFO] 토큰교체 실행
+2023-07-10 09:26:34 [INFO] ---------------------------------------
+Start : MemberServiceImpl - changeToken
+Parameter : [{socialEmail=hohosuu@naver.com, accessToken=AAAANyG-PcXuOb1KQqtF9qY9tXJgSzw6sA_nTcqjhugarIYFbd2HXdohEiD-1GSTyaim2kvLVufwp4sRWp4IRZFJci0}]
+ip : 127.0.0.1
+2023-07-10 09:26:34 [INFO] Return Value : 1
+2023-07-10 09:26:34 [INFO] Running Time : 32ms
+2023-07-10 09:26:34 [INFO] End : MemberServiceImpl - changeToken
+---------------------------------------------
+
+2023-07-10 09:26:34 [INFO] ---------------------------------------
+Start : MemberServiceImpl - getMember
+Parameter : [51]
+ip : 127.0.0.1
+2023-07-10 09:26:34 [INFO] Return Value : Member(memberNo=51, memberEmail=hohosuu@naver.com, memberPw=null, memberName=최수진, memberGit=null, profileImage=https://phinf.pstatic.net/contact/20220815_206/1660536568502X3Tdj_PNG/profileImage.png, enrollDate=null, memberDeleteFG=null, socialEmail=hohosuu@naver.com, accessToken=null, isSocialMember=null)
+2023-07-10 09:26:34 [INFO] Running Time : 19ms
+2023-07-10 09:26:34 [INFO] End : MemberServiceImpl - getMember
+---------------------------------------------
+
+2023-07-10 09:26:34 [INFO] ---------------------------------------
+Start : ProjectServiceImpl - selectMyProjectNo
+Parameter : [51]
+ip : 127.0.0.1
+2023-07-10 09:26:34 [INFO] Return Value : 425
+2023-07-10 09:26:34 [INFO] Running Time : 60ms
+2023-07-10 09:26:34 [INFO] End : ProjectServiceImpl - selectMyProjectNo
+---------------------------------------------
+
+2023-07-10 09:27:23 [INFO] 로그아웃 수행됨
+2023-07-10 09:30:21 [INFO] 초기화 필터 파괴
+2023-07-10 09:30:43 [INFO] 초기화 필터 생성
+2023-07-10 09:30:47 [INFO] 초기화 필터 파괴
+2023-07-10 09:31:13 [INFO] 초기화 필터 생성
+2023-07-10 09:31:17 [INFO] 초기화 필터 파괴
+2023-07-10 09:39:39 [INFO] 초기화 필터 생성
+2023-07-10 09:39:44 [INFO] 초기화 필터 파괴
+2023-07-10 09:40:44 [INFO] 초기화 필터 생성
+2023-07-10 09:40:48 [INFO] 초기화 필터 파괴
+2023-07-10 09:42:10 [INFO] 초기화 필터 생성
+2023-07-10 09:42:40 [INFO] 로그인 기능 수행됨
+2023-07-10 09:42:40 [INFO] ---------------------------------------
+Start : MemberServiceImpl - login
+Parameter : [Member(memberNo=0, memberEmail=98chltnwls, memberPw=wlduddl33!, memberName=null, memberGit=null, profileImage=null, enrollDate=null, memberDeleteFG=null, socialEmail=null, accessToken=null, isSocialMember=null)]
+ip : 127.0.0.1
+2023-07-10 09:42:42 [INFO] 로그인 기능 수행됨
+2023-07-10 09:42:42 [INFO] ---------------------------------------
+Start : MemberServiceImpl - login
+Parameter : [Member(memberNo=0, memberEmail=98chltnwls, memberPw=wlduddl33!, memberName=null, memberGit=null, profileImage=null, enrollDate=null, memberDeleteFG=null, socialEmail=null, accessToken=null, isSocialMember=null)]
+ip : 127.0.0.1
+2023-07-10 09:42:43 [DEBUG] wlduddl33! / $2a$10$9kZx7a3n62AXTQULswE2.OTlF2Twn2zScg91vObhmB571RVmqtgim
+2023-07-10 09:42:43 [DEBUG] wlduddl33! / $2a$10$/5olH0lbytGJPzpNTu6Qte3s.NKVdzqv.F/uScpnyCDzb6Mcbhv3C
+2023-07-10 09:42:43 [INFO] Return Value : null
+2023-07-10 09:42:43 [INFO] Return Value : null
+2023-07-10 09:42:43 [INFO] Running Time : 2877ms
+2023-07-10 09:42:43 [INFO] Running Time : 392ms
+2023-07-10 09:42:43 [INFO] End : MemberServiceImpl - login
+---------------------------------------------
+
+2023-07-10 09:42:43 [INFO] End : MemberServiceImpl - login
+---------------------------------------------
+
+2023-07-10 09:43:02 [INFO] 로그인 기능 수행됨
+2023-07-10 09:43:02 [INFO] ---------------------------------------
+Start : MemberServiceImpl - login
+Parameter : [Member(memberNo=0, memberEmail=98chltnwls, memberPw=wlduddl33!, memberName=null, memberGit=null, profileImage=null, enrollDate=null, memberDeleteFG=null, socialEmail=null, accessToken=null, isSocialMember=null)]
+ip : 127.0.0.1
+2023-07-10 09:43:02 [DEBUG] wlduddl33! / $2a$10$xW1CsXK2qnetG4iNI9ys4OLwRA7aHDlL/tWMGZQFfe6QIN9DaNPzy
+2023-07-10 09:43:02 [INFO] Return Value : null
+2023-07-10 09:43:02 [INFO] Running Time : 127ms
+2023-07-10 09:43:02 [INFO] End : MemberServiceImpl - login
+---------------------------------------------
+
+2023-07-10 09:43:26 [INFO] 로그인 기능 수행됨
+2023-07-10 09:43:26 [INFO] ---------------------------------------
+Start : MemberServiceImpl - login
+Parameter : [Member(memberNo=0, memberEmail=98chltnwls@gmail.com, memberPw=wlduddl33!, memberName=null, memberGit=null, profileImage=null, enrollDate=null, memberDeleteFG=null, socialEmail=null, accessToken=null, isSocialMember=null)]
+ip : 127.0.0.1
+2023-07-10 09:43:26 [DEBUG] wlduddl33! / $2a$10$h/Ms.zVtZMCGGGKLpnzZbugslKa3sTxPVETI4YHppytiHDrDXXJia
+2023-07-10 09:43:26 [INFO] Return Value : Member(memberNo=65, memberEmail=98chltnwls@gmail.com, memberPw=null, memberName=최수진, memberGit=null, profileImage=/resources/images/memberProfile/member.png, enrollDate=2023-07-09 23:43:22, memberDeleteFG=null, socialEmail=null, accessToken=null, isSocialMember=null)
+2023-07-10 09:43:26 [INFO] Running Time : 225ms
+2023-07-10 09:43:26 [INFO] End : MemberServiceImpl - login
+---------------------------------------------
+
+2023-07-10 09:43:26 [INFO] ---------------------------------------
+Start : MemberServiceImpl - paymentDateCheck
+Parameter : [65]
+ip : 127.0.0.1
+2023-07-10 09:43:27 [INFO] Return Value : 0
+2023-07-10 09:43:27 [INFO] Running Time : 72ms
+2023-07-10 09:43:27 [INFO] End : MemberServiceImpl - paymentDateCheck
+---------------------------------------------
+
+2023-07-10 09:43:27 [DEBUG] paymentDateCheck = 0
+2023-07-10 09:43:27 [DEBUG] Member(memberNo=65, memberEmail=98chltnwls@gmail.com, memberPw=null, memberName=최수진, memberGit=null, profileImage=/resources/images/memberProfile/member.png, enrollDate=2023-07-09 23:43:22, memberDeleteFG=null, socialEmail=null, accessToken=null, isSocialMember=null)로그인 성공시 로그인 멤버 정보
+2023-07-10 09:43:27 [INFO] ---------------------------------------
+Start : ProjectServiceImpl - selectMyProjectNo
+Parameter : [65]
+ip : 127.0.0.1
+2023-07-10 09:43:27 [INFO] Return Value : 426
+2023-07-10 09:43:27 [INFO] Running Time : 77ms
+2023-07-10 09:43:27 [INFO] End : ProjectServiceImpl - selectMyProjectNo
+---------------------------------------------
+
+2023-07-10 09:43:34 [INFO] ---------------------------------------
+Start : ProjectServiceImpl - selectProjectList
+Parameter : [Member(memberNo=65, memberEmail=98chltnwls@gmail.com, memberPw=null, memberName=최수진, memberGit=null, profileImage=/resources/images/memberProfile/member.png, enrollDate=2023-07-09 23:43:22, memberDeleteFG=null, socialEmail=null, accessToken=null, isSocialMember=null)]
+ip : 127.0.0.1 (email : 98chltnwls@gmail.com)
+2023-07-10 09:43:34 [INFO] Return Value : [Project(projectNo=426, projectName=프로젝트123, projectDescription=null, projectEmoji=🦧, inviteCode=null, projectDeleteFG=null, regDate=null, createMemberNo=65)]
+2023-07-10 09:43:34 [INFO] Running Time : 25ms
+2023-07-10 09:43:34 [INFO] End : ProjectServiceImpl - selectProjectList
+---------------------------------------------
+
+2023-07-10 09:43:34 [INFO] ---------------------------------------
+Start : ProjectMemberServiceImpl - selectProjectMember
+Parameter : [{memberNo=65, projectNo=426}]
+ip : 127.0.0.1 (email : 98chltnwls@gmail.com)
+2023-07-10 09:43:34 [INFO] Return Value : ProjectMember(pmNo=304, projectNo=426, memberNo=65, projectManager=Y, pmST=Y, regDate=2023-07-09 23:44:18, profileImg=null)
+2023-07-10 09:43:34 [INFO] Running Time : 20ms
+2023-07-10 09:43:34 [INFO] End : ProjectMemberServiceImpl - selectProjectMember
+---------------------------------------------
+
+2023-07-10 09:43:34 [INFO] ---------------------------------------
+Start : WorkspaceServiceImpl - selectWorkspaceList
+Parameter : [426]
+ip : 127.0.0.1 (email : 98chltnwls@gmail.com)
+2023-07-10 09:43:34 [INFO] Return Value : [Workspace(workspaceNo=488, projectNo=426, workspaceName=loadmap, workspaceEmoji=null, workspaceRegDate=2023-07-09 23:44:19, workspaceDeleteST=N), Workspace(workspaceNo=489, projectNo=426, workspaceName=calendar, workspaceEmoji=null, workspaceRegDate=2023-07-09 23:44:19, workspaceDeleteST=N), Workspace(workspaceNo=491, projectNo=426, workspaceName=워크스페이수~, workspaceEmoji=🙃, workspaceRegDate=2023-07-09 23:44:29, workspaceDeleteST=N)]
+2023-07-10 09:43:34 [INFO] Running Time : 24ms
+2023-07-10 09:43:34 [INFO] End : WorkspaceServiceImpl - selectWorkspaceList
+---------------------------------------------
+
+2023-07-10 09:43:34 [INFO] ---------------------------------------
+Start : ProjectServiceImpl - selectProject
+Parameter : [426]
+ip : 127.0.0.1 (email : 98chltnwls@gmail.com)
+2023-07-10 09:43:34 [INFO] Return Value : Project(projectNo=426, projectName=프로젝트123, projectDescription=null, projectEmoji=🦧, inviteCode=null, projectDeleteFG=null, regDate=null, createMemberNo=65)
+2023-07-10 09:43:34 [INFO] Running Time : 16ms
+2023-07-10 09:43:34 [INFO] End : ProjectServiceImpl - selectProject
+---------------------------------------------
+
+2023-07-10 09:43:35 [INFO] ---------------------------------------
+Start : AlertServiceImpl - selectAlertList
+Parameter : [Alert(alertNo=0, alertContent=null, projectNo=426, memberNo=0, alertRegDate=null, alertCheckFg=null, link=null, pmNo=304, projectName=null, memberName=null)]
+ip : 127.0.0.1 (email : 98chltnwls@gmail.com)
+2023-07-10 09:43:35 [INFO] Return Value : []
+2023-07-10 09:43:35 [INFO] Running Time : 98ms
+2023-07-10 09:43:35 [INFO] End : AlertServiceImpl - selectAlertList
+---------------------------------------------
+
+2023-07-10 09:43:35 [INFO] ---------------------------------------
+Start : CalendarServiceImpl - schedule
+Parameter : [426]
+ip : 127.0.0.1 (email : 98chltnwls@gmail.com)
+2023-07-10 09:43:35 [INFO] Return Value : []
+2023-07-10 09:43:35 [INFO] Running Time : 31ms
+2023-07-10 09:43:35 [INFO] End : CalendarServiceImpl - schedule
+---------------------------------------------
+
+2023-07-10 09:43:48 [INFO] 워크스페이스 생성
+2023-07-10 09:43:48 [INFO] 뉴워크스페이스
+2023-07-10 09:43:48 [INFO] ---------------------------------------
+Start : WorkspaceServiceImpl - createWorkspace
+Parameter : [Workspace(workspaceNo=0, projectNo=426, workspaceName=뉴워크스페이스, workspaceEmoji=⚽, workspaceRegDate=null, workspaceDeleteST=null)]
+ip : 127.0.0.1 (email : 98chltnwls@gmail.com)
+2023-07-10 09:43:48 [INFO] Return Value : 518
+2023-07-10 09:43:48 [INFO] Running Time : 47ms
+2023-07-10 09:43:48 [INFO] End : WorkspaceServiceImpl - createWorkspace
+---------------------------------------------
+
+2023-07-10 09:43:48 [INFO] ---------------------------------------
+Start : ChatServiceImpl - insertChatRoom
+Parameter : [ChatRoom(chatRoomNo=0, chatRoomTitle=뉴워크스페이스, chatRoomST=null, projectNo=426, chatRoomType=2)]
+ip : 127.0.0.1 (email : 98chltnwls@gmail.com)
+2023-07-10 09:43:48 [INFO] Return Value : 447
+2023-07-10 09:43:48 [INFO] Running Time : 26ms
+2023-07-10 09:43:48 [INFO] End : ChatServiceImpl - insertChatRoom
+---------------------------------------------
+
+2023-07-10 09:43:48 [INFO] ---------------------------------------
+Start : ProjectMemberServiceImpl - selectPmNoList
+Parameter : [426]
+ip : 127.0.0.1 (email : 98chltnwls@gmail.com)
+2023-07-10 09:43:48 [INFO] Return Value : [304]
+2023-07-10 09:43:48 [INFO] Running Time : 21ms
+2023-07-10 09:43:48 [INFO] End : ProjectMemberServiceImpl - selectPmNoList
+---------------------------------------------
+
+2023-07-10 09:43:48 [INFO] ---------------------------------------
+Start : ChatServiceImpl - insertChatRoomJoin
+Parameter : [ChatRoomJoin(pmNo=304, chatRoomNo=447)]
+ip : 127.0.0.1 (email : 98chltnwls@gmail.com)
+2023-07-10 09:43:48 [INFO] Return Value : 1
+2023-07-10 09:43:48 [INFO] Running Time : 21ms
+2023-07-10 09:43:48 [INFO] End : ChatServiceImpl - insertChatRoomJoin
+---------------------------------------------
+
+2023-07-10 09:43:48 [INFO] 304번 pm넘버 : 447번 워크스페이스 채팅방 초대 성공
+2023-07-10 09:43:48 [INFO] ---------------------------------------
+Start : ProjectMemberServiceImpl - selectPmNo
+Parameter : [{memberNo=65, projectNo=426}]
+ip : 127.0.0.1 (email : 98chltnwls@gmail.com)
+2023-07-10 09:43:48 [INFO] Return Value : 304
+2023-07-10 09:43:48 [INFO] Running Time : 16ms
+2023-07-10 09:43:48 [INFO] End : ProjectMemberServiceImpl - selectPmNo
+---------------------------------------------
+
+2023-07-10 09:43:48 [INFO] ---------------------------------------
+Start : MemoServiceImpl - insertMemo
+Parameter : [Memo(memoNo=0, workspaceNo=518, pmNo=304, memoContent=null, memoRegDate=null, memoUpdateDate=null, memoBgColor=null, memoSt=null, memoType=workspace, memberName=null, profileImg=null)]
+ip : 127.0.0.1 (email : 98chltnwls@gmail.com)
+2023-07-10 09:43:48 [INFO] Return Value : 1
+2023-07-10 09:43:48 [INFO] Running Time : 20ms
+2023-07-10 09:43:48 [INFO] End : MemoServiceImpl - insertMemo
+---------------------------------------------
+
+2023-07-10 09:43:48 [INFO] 518첫번째 공용 메모장 생성
+2023-07-10 09:43:48 [INFO] ---------------------------------------
+Start : MemoServiceImpl - insertMemo
+Parameter : [Memo(memoNo=0, workspaceNo=518, pmNo=304, memoContent=null, memoRegDate=null, memoUpdateDate=null, memoBgColor=null, memoSt=null, memoType=workspace, memberName=null, profileImg=null)]
+ip : 127.0.0.1 (email : 98chltnwls@gmail.com)
+2023-07-10 09:43:48 [INFO] Return Value : 1
+2023-07-10 09:43:48 [INFO] Running Time : 17ms
+2023-07-10 09:43:48 [INFO] End : MemoServiceImpl - insertMemo
+---------------------------------------------
+
+2023-07-10 09:43:48 [INFO] 518두번째 공용 메모장 생성
+2023-07-10 09:43:48 [INFO] ---------------------------------------
+Start : ProjectMemberServiceImpl - selectPmNoList
+Parameter : [426]
+ip : 127.0.0.1 (email : 98chltnwls@gmail.com)
+2023-07-10 09:43:48 [INFO] Return Value : [304]
+2023-07-10 09:43:48 [INFO] Running Time : 14ms
+2023-07-10 09:43:48 [INFO] End : ProjectMemberServiceImpl - selectPmNoList
+---------------------------------------------
+
+2023-07-10 09:43:48 [INFO] ---------------------------------------
+Start : MemoServiceImpl - insertMemo
+Parameter : [Memo(memoNo=0, workspaceNo=518, pmNo=304, memoContent=null, memoRegDate=null, memoUpdateDate=null, memoBgColor=null, memoSt=null, memoType=personal, memberName=null, profileImg=null)]
+ip : 127.0.0.1 (email : 98chltnwls@gmail.com)
+2023-07-10 09:43:48 [INFO] Return Value : 1
+2023-07-10 09:43:48 [INFO] Running Time : 17ms
+2023-07-10 09:43:48 [INFO] End : MemoServiceImpl - insertMemo
+---------------------------------------------
+
+2023-07-10 09:43:48 [INFO] 518번워크스페이스 : 304회원의 첫번째 개인 메모장 생성
+2023-07-10 09:43:48 [INFO] ---------------------------------------
+Start : MemoServiceImpl - insertMemo
+Parameter : [Memo(memoNo=0, workspaceNo=518, pmNo=304, memoContent=null, memoRegDate=null, memoUpdateDate=null, memoBgColor=null, memoSt=null, memoType=personal, memberName=null, profileImg=null)]
+ip : 127.0.0.1 (email : 98chltnwls@gmail.com)
+2023-07-10 09:43:48 [INFO] Return Value : 1
+2023-07-10 09:43:48 [INFO] Running Time : 20ms
+2023-07-10 09:43:48 [INFO] End : MemoServiceImpl - insertMemo
+---------------------------------------------
+
+2023-07-10 09:43:48 [INFO] 518번워크스페이스 : 304회원의 번째 개인 메모장 생성
+2023-07-10 09:43:50 [INFO] ---------------------------------------
+Start : ProjectMemberServiceImpl - searchmember
+Parameter : [초]
+ip : 127.0.0.1 (email : 98chltnwls@gmail.com)
+2023-07-10 09:43:50 [INFO] Return Value : []
+2023-07-10 09:43:50 [INFO] Running Time : 26ms
+2023-07-10 09:43:50 [INFO] End : ProjectMemberServiceImpl - searchmember
+---------------------------------------------
+
+2023-07-10 09:43:50 [INFO] ---------------------------------------
+Start : ProjectMemberServiceImpl - searchmember
+Parameter : [최]
+ip : 127.0.0.1 (email : 98chltnwls@gmail.com)
+2023-07-10 09:43:50 [INFO] Return Value : [Member(memberNo=51, memberEmail=hohosuu@naver.com, memberPw=null, memberName=최수진, memberGit=null, profileImage=https://phinf.pstatic.net/contact/20220815_206/1660536568502X3Tdj_PNG/profileImage.png, enrollDate=2023-07-09 22:39:31, memberDeleteFG=N, socialEmail=hohosuu@naver.com, accessToken=AAAANyG-PcXuOb1KQqtF9qY9tXJgSzw6sA_nTcqjhugarIYFbd2HXdohEiD-1GSTyaim2kvLVufwp4sRWp4IRZFJci0, isSocialMember=1), Member(memberNo=65, memberEmail=98chltnwls@gmail.com, memberPw=$2a$10$VSbcED3EpljKHFDmpmQpneqoaPiDQOnUK08M7YykwrF2CLd1D767C, memberName=최수진, memberGit=null, profileImage=/resources/images/memberProfile/member.png, enrollDate=2023-07-09 23:43:22, memberDeleteFG=N, socialEmail=null, accessToken=null, isSocialMember=0)]
+2023-07-10 09:43:50 [INFO] Running Time : 22ms
+2023-07-10 09:43:50 [INFO] End : ProjectMemberServiceImpl - searchmember
+---------------------------------------------
+
+2023-07-10 09:43:50 [INFO] ---------------------------------------
+Start : ProjectMemberServiceImpl - searchmember
+Parameter : [최]
+ip : 127.0.0.1 (email : 98chltnwls@gmail.com)
+2023-07-10 09:43:50 [INFO] Return Value : [Member(memberNo=51, memberEmail=hohosuu@naver.com, memberPw=null, memberName=최수진, memberGit=null, profileImage=https://phinf.pstatic.net/contact/20220815_206/1660536568502X3Tdj_PNG/profileImage.png, enrollDate=2023-07-09 22:39:31, memberDeleteFG=N, socialEmail=hohosuu@naver.com, accessToken=AAAANyG-PcXuOb1KQqtF9qY9tXJgSzw6sA_nTcqjhugarIYFbd2HXdohEiD-1GSTyaim2kvLVufwp4sRWp4IRZFJci0, isSocialMember=1), Member(memberNo=65, memberEmail=98chltnwls@gmail.com, memberPw=$2a$10$VSbcED3EpljKHFDmpmQpneqoaPiDQOnUK08M7YykwrF2CLd1D767C, memberName=최수진, memberGit=null, profileImage=/resources/images/memberProfile/member.png, enrollDate=2023-07-09 23:43:22, memberDeleteFG=N, socialEmail=null, accessToken=null, isSocialMember=0)]
+2023-07-10 09:43:50 [INFO] Running Time : 21ms
+2023-07-10 09:43:50 [INFO] End : ProjectMemberServiceImpl - searchmember
+---------------------------------------------
+
+2023-07-10 09:43:55 [INFO] 프로젝트멤버 초대
+2023-07-10 09:45:10 [INFO] 초기화 필터 파괴
+2023-07-10 09:45:32 [INFO] 초기화 필터 생성
+2023-07-10 09:45:47 [INFO] 로그인 기능 수행됨
+2023-07-10 09:45:47 [INFO] ---------------------------------------
+Start : MemberServiceImpl - login
+Parameter : [Member(memberNo=0, memberEmail=98chltnwls@gmail.com, memberPw=wlduddl33!, memberName=null, memberGit=null, profileImage=null, enrollDate=null, memberDeleteFG=null, socialEmail=null, accessToken=null, isSocialMember=null)]
+ip : 127.0.0.1
+2023-07-10 09:45:50 [DEBUG] wlduddl33! / $2a$10$i7oL3ekMosh0SCnk4yx7weK5BNyWUZpb04dvRsgXgXmjcNlkrU0rK
+2023-07-10 09:45:50 [INFO] Return Value : Member(memberNo=65, memberEmail=98chltnwls@gmail.com, memberPw=null, memberName=최수진, memberGit=null, profileImage=/resources/images/memberProfile/member.png, enrollDate=2023-07-09 23:43:22, memberDeleteFG=null, socialEmail=null, accessToken=null, isSocialMember=null)
+2023-07-10 09:45:50 [INFO] Running Time : 3113ms
+2023-07-10 09:45:50 [INFO] End : MemberServiceImpl - login
+---------------------------------------------
+
+2023-07-10 09:45:50 [INFO] ---------------------------------------
+Start : MemberServiceImpl - paymentDateCheck
+Parameter : [65]
+ip : 127.0.0.1
+2023-07-10 09:45:50 [INFO] Return Value : 0
+2023-07-10 09:45:50 [INFO] Running Time : 61ms
+2023-07-10 09:45:50 [INFO] End : MemberServiceImpl - paymentDateCheck
+---------------------------------------------
+
+2023-07-10 09:45:50 [DEBUG] paymentDateCheck = 0
+2023-07-10 09:45:50 [DEBUG] Member(memberNo=65, memberEmail=98chltnwls@gmail.com, memberPw=null, memberName=최수진, memberGit=null, profileImage=/resources/images/memberProfile/member.png, enrollDate=2023-07-09 23:43:22, memberDeleteFG=null, socialEmail=null, accessToken=null, isSocialMember=null)로그인 성공시 로그인 멤버 정보
+2023-07-10 09:45:50 [INFO] ---------------------------------------
+Start : ProjectServiceImpl - selectMyProjectNo
+Parameter : [65]
+ip : 127.0.0.1
+2023-07-10 09:45:50 [INFO] Return Value : 426
+2023-07-10 09:45:50 [INFO] Running Time : 48ms
+2023-07-10 09:45:50 [INFO] End : ProjectServiceImpl - selectMyProjectNo
+---------------------------------------------
+
+2023-07-10 09:45:52 [INFO] ---------------------------------------
+Start : ProjectServiceImpl - selectProjectList
+Parameter : [Member(memberNo=65, memberEmail=98chltnwls@gmail.com, memberPw=null, memberName=최수진, memberGit=null, profileImage=/resources/images/memberProfile/member.png, enrollDate=2023-07-09 23:43:22, memberDeleteFG=null, socialEmail=null, accessToken=null, isSocialMember=null)]
+ip : 127.0.0.1 (email : 98chltnwls@gmail.com)
+2023-07-10 09:45:52 [INFO] Return Value : [Project(projectNo=426, projectName=프로젝트123, projectDescription=null, projectEmoji=🦧, inviteCode=null, projectDeleteFG=null, regDate=null, createMemberNo=65)]
+2023-07-10 09:45:52 [INFO] Running Time : 36ms
+2023-07-10 09:45:52 [INFO] End : ProjectServiceImpl - selectProjectList
+---------------------------------------------
+
+2023-07-10 09:45:52 [INFO] ---------------------------------------
+Start : ProjectMemberServiceImpl - selectProjectMember
+Parameter : [{memberNo=65, projectNo=426}]
+ip : 127.0.0.1 (email : 98chltnwls@gmail.com)
+2023-07-10 09:45:52 [INFO] Return Value : ProjectMember(pmNo=304, projectNo=426, memberNo=65, projectManager=Y, pmST=Y, regDate=2023-07-09 23:44:18, profileImg=null)
+2023-07-10 09:45:52 [INFO] Running Time : 28ms
+2023-07-10 09:45:52 [INFO] End : ProjectMemberServiceImpl - selectProjectMember
+---------------------------------------------
+
+2023-07-10 09:45:52 [INFO] ---------------------------------------
+Start : WorkspaceServiceImpl - selectWorkspaceList
+Parameter : [426]
+ip : 127.0.0.1 (email : 98chltnwls@gmail.com)
+2023-07-10 09:45:52 [INFO] Return Value : [Workspace(workspaceNo=488, projectNo=426, workspaceName=loadmap, workspaceEmoji=null, workspaceRegDate=2023-07-09 23:44:19, workspaceDeleteST=N), Workspace(workspaceNo=489, projectNo=426, workspaceName=calendar, workspaceEmoji=null, workspaceRegDate=2023-07-09 23:44:19, workspaceDeleteST=N), Workspace(workspaceNo=491, projectNo=426, workspaceName=워크스페이수~, workspaceEmoji=🙃, workspaceRegDate=2023-07-09 23:44:29, workspaceDeleteST=N), Workspace(workspaceNo=518, projectNo=426, workspaceName=뉴워크스페이스, workspaceEmoji=⚽, workspaceRegDate=2023-07-10 09:43:48, workspaceDeleteST=N)]
+2023-07-10 09:45:52 [INFO] Running Time : 28ms
+2023-07-10 09:45:52 [INFO] End : WorkspaceServiceImpl - selectWorkspaceList
+---------------------------------------------
+
+2023-07-10 09:45:52 [INFO] ---------------------------------------
+Start : ProjectServiceImpl - selectProject
+Parameter : [426]
+ip : 127.0.0.1 (email : 98chltnwls@gmail.com)
+2023-07-10 09:45:52 [INFO] Return Value : Project(projectNo=426, projectName=프로젝트123, projectDescription=null, projectEmoji=🦧, inviteCode=null, projectDeleteFG=null, regDate=null, createMemberNo=65)
+2023-07-10 09:45:52 [INFO] Running Time : 17ms
+2023-07-10 09:45:52 [INFO] End : ProjectServiceImpl - selectProject
+---------------------------------------------
+
+2023-07-10 09:45:52 [INFO] ---------------------------------------
+Start : AlertServiceImpl - selectAlertList
+Parameter : [Alert(alertNo=0, alertContent=null, projectNo=426, memberNo=0, alertRegDate=null, alertCheckFg=null, link=null, pmNo=304, projectName=null, memberName=null)]
+ip : 127.0.0.1 (email : 98chltnwls@gmail.com)
+2023-07-10 09:45:52 [INFO] Return Value : []
+2023-07-10 09:45:52 [INFO] Running Time : 60ms
+2023-07-10 09:45:52 [INFO] End : AlertServiceImpl - selectAlertList
+---------------------------------------------
+
+2023-07-10 09:45:53 [INFO] ---------------------------------------
+Start : CalendarServiceImpl - schedule
+Parameter : [426]
+ip : 127.0.0.1 (email : 98chltnwls@gmail.com)
+2023-07-10 09:45:53 [INFO] Return Value : []
+2023-07-10 09:45:53 [INFO] Running Time : 30ms
+2023-07-10 09:45:53 [INFO] End : CalendarServiceImpl - schedule
+---------------------------------------------
+
+2023-07-10 09:45:58 [INFO] 워크스페이스 생성
+2023-07-10 09:45:58 [INFO] dd
+2023-07-10 09:45:58 [INFO] ---------------------------------------
+Start : WorkspaceServiceImpl - createWorkspace
+Parameter : [Workspace(workspaceNo=0, projectNo=426, workspaceName=dd, workspaceEmoji=🙃, workspaceRegDate=null, workspaceDeleteST=null)]
+ip : 127.0.0.1 (email : 98chltnwls@gmail.com)
+2023-07-10 09:45:58 [INFO] Return Value : 519
+2023-07-10 09:45:58 [INFO] Running Time : 42ms
+2023-07-10 09:45:58 [INFO] End : WorkspaceServiceImpl - createWorkspace
+---------------------------------------------
+
+2023-07-10 09:45:58 [INFO] ---------------------------------------
+Start : ChatServiceImpl - insertChatRoom
+Parameter : [ChatRoom(chatRoomNo=0, chatRoomTitle=dd, chatRoomST=null, projectNo=426, chatRoomType=2)]
+ip : 127.0.0.1 (email : 98chltnwls@gmail.com)
+2023-07-10 09:45:58 [INFO] Return Value : 448
+2023-07-10 09:45:58 [INFO] Running Time : 31ms
+2023-07-10 09:45:58 [INFO] End : ChatServiceImpl - insertChatRoom
+---------------------------------------------
+
+2023-07-10 09:45:58 [INFO] ---------------------------------------
+Start : ProjectMemberServiceImpl - selectPmNoList
+Parameter : [426]
+ip : 127.0.0.1 (email : 98chltnwls@gmail.com)
+2023-07-10 09:45:58 [INFO] Return Value : [304]
+2023-07-10 09:45:58 [INFO] Running Time : 17ms
+2023-07-10 09:45:58 [INFO] End : ProjectMemberServiceImpl - selectPmNoList
+---------------------------------------------
+
+2023-07-10 09:45:58 [INFO] ---------------------------------------
+Start : ChatServiceImpl - insertChatRoomJoin
+Parameter : [ChatRoomJoin(pmNo=304, chatRoomNo=448)]
+ip : 127.0.0.1 (email : 98chltnwls@gmail.com)
+2023-07-10 09:45:58 [INFO] Return Value : 1
+2023-07-10 09:45:58 [INFO] Running Time : 18ms
+2023-07-10 09:45:58 [INFO] End : ChatServiceImpl - insertChatRoomJoin
+---------------------------------------------
+
+2023-07-10 09:45:58 [INFO] 304번 pm넘버 : 448번 워크스페이스 채팅방 초대 성공
+2023-07-10 09:45:58 [INFO] ---------------------------------------
+Start : ProjectMemberServiceImpl - selectPmNo
+Parameter : [{memberNo=65, projectNo=426}]
+ip : 127.0.0.1 (email : 98chltnwls@gmail.com)
+2023-07-10 09:45:58 [INFO] Return Value : 304
+2023-07-10 09:45:58 [INFO] Running Time : 16ms
+2023-07-10 09:45:58 [INFO] End : ProjectMemberServiceImpl - selectPmNo
+---------------------------------------------
+
+2023-07-10 09:45:58 [INFO] ---------------------------------------
+Start : MemoServiceImpl - insertMemo
+Parameter : [Memo(memoNo=0, workspaceNo=519, pmNo=304, memoContent=null, memoRegDate=null, memoUpdateDate=null, memoBgColor=null, memoSt=null, memoType=workspace, memberName=null, profileImg=null)]
+ip : 127.0.0.1 (email : 98chltnwls@gmail.com)
+2023-07-10 09:45:58 [INFO] Return Value : 1
+2023-07-10 09:45:58 [INFO] Running Time : 21ms
+2023-07-10 09:45:58 [INFO] End : MemoServiceImpl - insertMemo
+---------------------------------------------
+
+2023-07-10 09:45:58 [INFO] 519첫번째 공용 메모장 생성
+2023-07-10 09:45:58 [INFO] ---------------------------------------
+Start : MemoServiceImpl - insertMemo
+Parameter : [Memo(memoNo=0, workspaceNo=519, pmNo=304, memoContent=null, memoRegDate=null, memoUpdateDate=null, memoBgColor=null, memoSt=null, memoType=workspace, memberName=null, profileImg=null)]
+ip : 127.0.0.1 (email : 98chltnwls@gmail.com)
+2023-07-10 09:45:59 [INFO] Return Value : 1
+2023-07-10 09:45:59 [INFO] Running Time : 19ms
+2023-07-10 09:45:59 [INFO] End : MemoServiceImpl - insertMemo
+---------------------------------------------
+
+2023-07-10 09:45:59 [INFO] 519두번째 공용 메모장 생성
+2023-07-10 09:45:59 [INFO] ---------------------------------------
+Start : ProjectMemberServiceImpl - selectPmNoList
+Parameter : [426]
+ip : 127.0.0.1 (email : 98chltnwls@gmail.com)
+2023-07-10 09:45:59 [INFO] Return Value : [304]
+2023-07-10 09:45:59 [INFO] Running Time : 16ms
+2023-07-10 09:45:59 [INFO] End : ProjectMemberServiceImpl - selectPmNoList
+---------------------------------------------
+
+2023-07-10 09:45:59 [INFO] ---------------------------------------
+Start : MemoServiceImpl - insertMemo
+Parameter : [Memo(memoNo=0, workspaceNo=519, pmNo=304, memoContent=null, memoRegDate=null, memoUpdateDate=null, memoBgColor=null, memoSt=null, memoType=personal, memberName=null, profileImg=null)]
+ip : 127.0.0.1 (email : 98chltnwls@gmail.com)
+2023-07-10 09:45:59 [INFO] Return Value : 1
+2023-07-10 09:45:59 [INFO] Running Time : 14ms
+2023-07-10 09:45:59 [INFO] End : MemoServiceImpl - insertMemo
+---------------------------------------------
+
+2023-07-10 09:45:59 [INFO] 519번워크스페이스 : 304회원의 첫번째 개인 메모장 생성
+2023-07-10 09:45:59 [INFO] ---------------------------------------
+Start : MemoServiceImpl - insertMemo
+Parameter : [Memo(memoNo=0, workspaceNo=519, pmNo=304, memoContent=null, memoRegDate=null, memoUpdateDate=null, memoBgColor=null, memoSt=null, memoType=personal, memberName=null, profileImg=null)]
+ip : 127.0.0.1 (email : 98chltnwls@gmail.com)
+2023-07-10 09:45:59 [INFO] Return Value : 1
+2023-07-10 09:45:59 [INFO] Running Time : 21ms
+2023-07-10 09:45:59 [INFO] End : MemoServiceImpl - insertMemo
+---------------------------------------------
+
+2023-07-10 09:45:59 [INFO] 519번워크스페이스 : 304회원의 번째 개인 메모장 생성
+2023-07-10 09:45:59 [INFO] ---------------------------------------
+Start : ProjectMemberServiceImpl - searchmember
+Parameter : [c]
+ip : 127.0.0.1 (email : 98chltnwls@gmail.com)
+2023-07-10 09:46:00 [INFO] Return Value : [Member(memberNo=65, memberEmail=98chltnwls@gmail.com, memberPw=$2a$10$VSbcED3EpljKHFDmpmQpneqoaPiDQOnUK08M7YykwrF2CLd1D767C, memberName=최수진, memberGit=null, profileImage=/resources/images/memberProfile/member.png, enrollDate=2023-07-09 23:43:22, memberDeleteFG=N, socialEmail=null, accessToken=null, isSocialMember=0), Member(memberNo=66, memberEmail=csw454545@gmail.com, memberPw=$2a$10$1GiS8./OAwXZ/568WDQYZuL345SG1A6ylAV0gdDwSMyKLmWFTDiFe, memberName=csw, memberGit=null, profileImage=/resources/images/memberProfile/member.png, enrollDate=2023-07-10 00:52:56, memberDeleteFG=Y, socialEmail=null, accessToken=null, isSocialMember=0), Member(memberNo=68, memberEmail=csw454545@gmail.com, memberPw=$2a$10$TXEVbuI7plP2QMSYKuymVetyzf0ERtcMUapW49kLS8K9/XSK7dM12, memberName=테스트맨, memberGit=null, profileImage=/resources/images/memberProfile/member.png, enrollDate=2023-07-10 07:11:27, memberDeleteFG=Y, socialEmail=null, accessToken=null, isSocialMember=0), Member(memberNo=69, memberEmail=csw454545@gmailc.com, memberPw=$2a$10$0sjXYWvVKpTmpkxhc0IFg.nWvwzTWTwr8/YXaj5VoKw9k6c5TNUjq, memberName=테스트맨, memberGit=null, profileImage=/resources/images/memberProfile/member.png, enrollDate=2023-07-10 07:39:00, memberDeleteFG=N, socialEmail=null, accessToken=null, isSocialMember=0), Member(memberNo=70, memberEmail=csw454545@gmail.com, memberPw=$2a$10$htTHaOn.zQpRWLbI1woGj./9OoqgXrTL3AYE8Zqzy.UtnnNKZihhO, memberName=테스트맨, memberGit=null, profileImage=/resources/images/memberProfile/member.png, enrollDate=2023-07-10 07:40:39, memberDeleteFG=Y, socialEmail=null, accessToken=null, isSocialMember=0)]
+2023-07-10 09:46:00 [INFO] Running Time : 19ms
+2023-07-10 09:46:00 [INFO] End : ProjectMemberServiceImpl - searchmember
+---------------------------------------------
+
+2023-07-10 09:46:00 [INFO] ---------------------------------------
+Start : ProjectMemberServiceImpl - searchmember
+Parameter : []
+ip : 127.0.0.1 (email : 98chltnwls@gmail.com)
+2023-07-10 09:46:00 [INFO] Return Value : [Member(memberNo=51, memberEmail=hohosuu@naver.com, memberPw=null, memberName=최수진, memberGit=null, profileImage=https://phinf.pstatic.net/contact/20220815_206/1660536568502X3Tdj_PNG/profileImage.png, enrollDate=2023-07-09 22:39:31, memberDeleteFG=N, socialEmail=hohosuu@naver.com, accessToken=AAAANyG-PcXuOb1KQqtF9qY9tXJgSzw6sA_nTcqjhugarIYFbd2HXdohEiD-1GSTyaim2kvLVufwp4sRWp4IRZFJci0, isSocialMember=1), Member(memberNo=64, memberEmail=rlaalstn9097@naver.com, memberPw=$2a$10$RZkPzQDOICTGLXsI2jF8iekNdjffH/H6c5TQsu9d7iUJL5n9.VaDm, memberName=김민수네이버, memberGit=null, profileImage=/resources/images/memberProfile/20230710003523_45882.jpg, enrollDate=2023-07-09 23:09:22, memberDeleteFG=N, socialEmail=null, accessToken=null, isSocialMember=0), Member(memberNo=53, memberEmail=deok_k91@naver.com, memberPw=null, memberName=김덕근, memberGit=null, profileImage=https://ssl.pstatic.net/static/pwe/address/img_profile.png, enrollDate=2023-07-09 22:54:45, memberDeleteFG=N, socialEmail=deok_k91@naver.com, accessToken=AAAAOB4Zmw4BC8sB0Vfilc71xGZH5MOxaqzpcIDaTk6EZ9ruWzFB7Lx705qxY-0SRPaary7Iheqfu5IcWAcdOpZrRx0, isSocialMember=1), Member(memberNo=50, memberEmail=deokk91@gmail.com, memberPw=$2a$10$Zz0O..4E0WyrEZ7ThY8ShuGkPmJzAXor037cotCv4bXOCcGtZGyNy, memberName=김덕근, memberGit=null, profileImage=/resources/images/memberProfile/20230709223925_87374.jpeg, enrollDate=2023-07-09 22:35:02, memberDeleteFG=N, socialEmail=null, accessToken=null, isSocialMember=0), Member(memberNo=63, memberEmail=mskim9097@gmail.com, memberPw=null, memberName=김민수, memberGit=null, profileImage=/resources/images/memberProfile/20230710003446_33003.jpg, enrollDate=2023-07-09 23:04:24, memberDeleteFG=N, socialEmail=mskim9097@gmail.com, accessToken=AAAAPJbHgQl9jdD-_4eVFljhk-UHl6-lOXH-aWILaYklEA8ToALQPow6DPy1x4dCHxjX8NwU1ZUyqRbIQB_4a7wanoU, isSocialMember=1), Member(memberNo=65, memberEmail=98chltnwls@gmail.com, memberPw=$2a$10$VSbcED3EpljKHFDmpmQpneqoaPiDQOnUK08M7YykwrF2CLd1D767C, memberName=최수진, memberGit=null, profileImage=/resources/images/memberProfile/member.png, enrollDate=2023-07-09 23:43:22, memberDeleteFG=N, socialEmail=null, accessToken=null, isSocialMember=0), Member(memberNo=66, memberEmail=csw454545@gmail.com, memberPw=$2a$10$1GiS8./OAwXZ/568WDQYZuL345SG1A6ylAV0gdDwSMyKLmWFTDiFe, memberName=csw, memberGit=null, profileImage=/resources/images/memberProfile/member.png, enrollDate=2023-07-10 00:52:56, memberDeleteFG=Y, socialEmail=null, accessToken=null, isSocialMember=0), Member(memberNo=67, memberEmail=jjewwi12@gmail.com, memberPw=$2a$10$4LEAHh0U7We1cEO1uRaMHO8fAlCoCIG3FvaIVspd4FTG94vzvVji., memberName=이지윤, memberGit=null, profileImage=/resources/images/memberProfile/member.png, enrollDate=2023-07-10 03:00:36, memberDeleteFG=N, socialEmail=null, accessToken=null, isSocialMember=0), Member(memberNo=68, memberEmail=csw454545@gmail.com, memberPw=$2a$10$TXEVbuI7plP2QMSYKuymVetyzf0ERtcMUapW49kLS8K9/XSK7dM12, memberName=테스트맨, memberGit=null, profileImage=/resources/images/memberProfile/member.png, enrollDate=2023-07-10 07:11:27, memberDeleteFG=Y, socialEmail=null, accessToken=null, isSocialMember=0), Member(memberNo=69, memberEmail=csw454545@gmailc.com, memberPw=$2a$10$0sjXYWvVKpTmpkxhc0IFg.nWvwzTWTwr8/YXaj5VoKw9k6c5TNUjq, memberName=테스트맨, memberGit=null, profileImage=/resources/images/memberProfile/member.png, enrollDate=2023-07-10 07:39:00, memberDeleteFG=N, socialEmail=null, accessToken=null, isSocialMember=0), Member(memberNo=70, memberEmail=csw454545@gmail.com, memberPw=$2a$10$htTHaOn.zQpRWLbI1woGj./9OoqgXrTL3AYE8Zqzy.UtnnNKZihhO, memberName=테스트맨, memberGit=null, profileImage=/resources/images/memberProfile/member.png, enrollDate=2023-07-10 07:40:39, memberDeleteFG=Y, socialEmail=null, accessToken=null, isSocialMember=0), Member(memberNo=71, memberEmail=whos1145@naver.com, memberPw=$2a$10$rSyp2fUhKwfScyvQvxFDLOG7uu9J6XhQxRcPoRbeQ8SUvt.NoO4zm, memberName=테스트맨, memberGit=null, profileImage=/resources/images/memberProfile/member.png, enrollDate=2023-07-10 07:49:10, memberDeleteFG=N, socialEmail=null, accessToken=null, isSocialMember=0), Member(memberNo=72, memberEmail=lkayl9413@gmail.com, memberPw=$2a$10$2RfQqOn4.Qfdn3MHNkWNo.OGk4fBZw9GwjynPIOwztkOEr43S9nuS, memberName=정성훈, memberGit=null, profileImage=/resources/images/memberProfile/member.png, enrollDate=2023-07-10 09:19:15, memberDeleteFG=N, socialEmail=null, accessToken=null, isSocialMember=0)]
+2023-07-10 09:46:00 [INFO] Running Time : 41ms
+2023-07-10 09:46:00 [INFO] End : ProjectMemberServiceImpl - searchmember
+---------------------------------------------
+
+2023-07-10 09:46:00 [INFO] ---------------------------------------
+Start : ProjectMemberServiceImpl - searchmember
+Parameter : []
+ip : 127.0.0.1 (email : 98chltnwls@gmail.com)
+2023-07-10 09:46:00 [INFO] Return Value : [Member(memberNo=51, memberEmail=hohosuu@naver.com, memberPw=null, memberName=최수진, memberGit=null, profileImage=https://phinf.pstatic.net/contact/20220815_206/1660536568502X3Tdj_PNG/profileImage.png, enrollDate=2023-07-09 22:39:31, memberDeleteFG=N, socialEmail=hohosuu@naver.com, accessToken=AAAANyG-PcXuOb1KQqtF9qY9tXJgSzw6sA_nTcqjhugarIYFbd2HXdohEiD-1GSTyaim2kvLVufwp4sRWp4IRZFJci0, isSocialMember=1), Member(memberNo=64, memberEmail=rlaalstn9097@naver.com, memberPw=$2a$10$RZkPzQDOICTGLXsI2jF8iekNdjffH/H6c5TQsu9d7iUJL5n9.VaDm, memberName=김민수네이버, memberGit=null, profileImage=/resources/images/memberProfile/20230710003523_45882.jpg, enrollDate=2023-07-09 23:09:22, memberDeleteFG=N, socialEmail=null, accessToken=null, isSocialMember=0), Member(memberNo=53, memberEmail=deok_k91@naver.com, memberPw=null, memberName=김덕근, memberGit=null, profileImage=https://ssl.pstatic.net/static/pwe/address/img_profile.png, enrollDate=2023-07-09 22:54:45, memberDeleteFG=N, socialEmail=deok_k91@naver.com, accessToken=AAAAOB4Zmw4BC8sB0Vfilc71xGZH5MOxaqzpcIDaTk6EZ9ruWzFB7Lx705qxY-0SRPaary7Iheqfu5IcWAcdOpZrRx0, isSocialMember=1), Member(memberNo=50, memberEmail=deokk91@gmail.com, memberPw=$2a$10$Zz0O..4E0WyrEZ7ThY8ShuGkPmJzAXor037cotCv4bXOCcGtZGyNy, memberName=김덕근, memberGit=null, profileImage=/resources/images/memberProfile/20230709223925_87374.jpeg, enrollDate=2023-07-09 22:35:02, memberDeleteFG=N, socialEmail=null, accessToken=null, isSocialMember=0), Member(memberNo=63, memberEmail=mskim9097@gmail.com, memberPw=null, memberName=김민수, memberGit=null, profileImage=/resources/images/memberProfile/20230710003446_33003.jpg, enrollDate=2023-07-09 23:04:24, memberDeleteFG=N, socialEmail=mskim9097@gmail.com, accessToken=AAAAPJbHgQl9jdD-_4eVFljhk-UHl6-lOXH-aWILaYklEA8ToALQPow6DPy1x4dCHxjX8NwU1ZUyqRbIQB_4a7wanoU, isSocialMember=1), Member(memberNo=65, memberEmail=98chltnwls@gmail.com, memberPw=$2a$10$VSbcED3EpljKHFDmpmQpneqoaPiDQOnUK08M7YykwrF2CLd1D767C, memberName=최수진, memberGit=null, profileImage=/resources/images/memberProfile/member.png, enrollDate=2023-07-09 23:43:22, memberDeleteFG=N, socialEmail=null, accessToken=null, isSocialMember=0), Member(memberNo=66, memberEmail=csw454545@gmail.com, memberPw=$2a$10$1GiS8./OAwXZ/568WDQYZuL345SG1A6ylAV0gdDwSMyKLmWFTDiFe, memberName=csw, memberGit=null, profileImage=/resources/images/memberProfile/member.png, enrollDate=2023-07-10 00:52:56, memberDeleteFG=Y, socialEmail=null, accessToken=null, isSocialMember=0), Member(memberNo=67, memberEmail=jjewwi12@gmail.com, memberPw=$2a$10$4LEAHh0U7We1cEO1uRaMHO8fAlCoCIG3FvaIVspd4FTG94vzvVji., memberName=이지윤, memberGit=null, profileImage=/resources/images/memberProfile/member.png, enrollDate=2023-07-10 03:00:36, memberDeleteFG=N, socialEmail=null, accessToken=null, isSocialMember=0), Member(memberNo=68, memberEmail=csw454545@gmail.com, memberPw=$2a$10$TXEVbuI7plP2QMSYKuymVetyzf0ERtcMUapW49kLS8K9/XSK7dM12, memberName=테스트맨, memberGit=null, profileImage=/resources/images/memberProfile/member.png, enrollDate=2023-07-10 07:11:27, memberDeleteFG=Y, socialEmail=null, accessToken=null, isSocialMember=0), Member(memberNo=69, memberEmail=csw454545@gmailc.com, memberPw=$2a$10$0sjXYWvVKpTmpkxhc0IFg.nWvwzTWTwr8/YXaj5VoKw9k6c5TNUjq, memberName=테스트맨, memberGit=null, profileImage=/resources/images/memberProfile/member.png, enrollDate=2023-07-10 07:39:00, memberDeleteFG=N, socialEmail=null, accessToken=null, isSocialMember=0), Member(memberNo=70, memberEmail=csw454545@gmail.com, memberPw=$2a$10$htTHaOn.zQpRWLbI1woGj./9OoqgXrTL3AYE8Zqzy.UtnnNKZihhO, memberName=테스트맨, memberGit=null, profileImage=/resources/images/memberProfile/member.png, enrollDate=2023-07-10 07:40:39, memberDeleteFG=Y, socialEmail=null, accessToken=null, isSocialMember=0), Member(memberNo=71, memberEmail=whos1145@naver.com, memberPw=$2a$10$rSyp2fUhKwfScyvQvxFDLOG7uu9J6XhQxRcPoRbeQ8SUvt.NoO4zm, memberName=테스트맨, memberGit=null, profileImage=/resources/images/memberProfile/member.png, enrollDate=2023-07-10 07:49:10, memberDeleteFG=N, socialEmail=null, accessToken=null, isSocialMember=0), Member(memberNo=72, memberEmail=lkayl9413@gmail.com, memberPw=$2a$10$2RfQqOn4.Qfdn3MHNkWNo.OGk4fBZw9GwjynPIOwztkOEr43S9nuS, memberName=정성훈, memberGit=null, profileImage=/resources/images/memberProfile/member.png, enrollDate=2023-07-10 09:19:15, memberDeleteFG=N, socialEmail=null, accessToken=null, isSocialMember=0)]
+2023-07-10 09:46:00 [INFO] Running Time : 58ms
+2023-07-10 09:46:00 [INFO] End : ProjectMemberServiceImpl - searchmember
+---------------------------------------------
+
+2023-07-10 09:46:00 [INFO] ---------------------------------------
+Start : ProjectMemberServiceImpl - searchmember
+Parameter : [ㅊ]
+ip : 127.0.0.1 (email : 98chltnwls@gmail.com)
+2023-07-10 09:46:00 [INFO] Return Value : []
+2023-07-10 09:46:00 [INFO] Running Time : 17ms
+2023-07-10 09:46:00 [INFO] End : ProjectMemberServiceImpl - searchmember
+---------------------------------------------
+
+2023-07-10 09:46:00 [INFO] ---------------------------------------
+Start : ProjectMemberServiceImpl - searchmember
+Parameter : [최]
+ip : 127.0.0.1 (email : 98chltnwls@gmail.com)
+2023-07-10 09:46:00 [INFO] Return Value : [Member(memberNo=51, memberEmail=hohosuu@naver.com, memberPw=null, memberName=최수진, memberGit=null, profileImage=https://phinf.pstatic.net/contact/20220815_206/1660536568502X3Tdj_PNG/profileImage.png, enrollDate=2023-07-09 22:39:31, memberDeleteFG=N, socialEmail=hohosuu@naver.com, accessToken=AAAANyG-PcXuOb1KQqtF9qY9tXJgSzw6sA_nTcqjhugarIYFbd2HXdohEiD-1GSTyaim2kvLVufwp4sRWp4IRZFJci0, isSocialMember=1), Member(memberNo=65, memberEmail=98chltnwls@gmail.com, memberPw=$2a$10$VSbcED3EpljKHFDmpmQpneqoaPiDQOnUK08M7YykwrF2CLd1D767C, memberName=최수진, memberGit=null, profileImage=/resources/images/memberProfile/member.png, enrollDate=2023-07-09 23:43:22, memberDeleteFG=N, socialEmail=null, accessToken=null, isSocialMember=0)]
+2023-07-10 09:46:00 [INFO] Running Time : 26ms
+2023-07-10 09:46:00 [INFO] End : ProjectMemberServiceImpl - searchmember
+---------------------------------------------
+
+2023-07-10 09:46:00 [INFO] ---------------------------------------
+Start : ProjectMemberServiceImpl - searchmember
+Parameter : [최]
+ip : 127.0.0.1 (email : 98chltnwls@gmail.com)
+2023-07-10 09:46:00 [INFO] Return Value : [Member(memberNo=51, memberEmail=hohosuu@naver.com, memberPw=null, memberName=최수진, memberGit=null, profileImage=https://phinf.pstatic.net/contact/20220815_206/1660536568502X3Tdj_PNG/profileImage.png, enrollDate=2023-07-09 22:39:31, memberDeleteFG=N, socialEmail=hohosuu@naver.com, accessToken=AAAANyG-PcXuOb1KQqtF9qY9tXJgSzw6sA_nTcqjhugarIYFbd2HXdohEiD-1GSTyaim2kvLVufwp4sRWp4IRZFJci0, isSocialMember=1), Member(memberNo=65, memberEmail=98chltnwls@gmail.com, memberPw=$2a$10$VSbcED3EpljKHFDmpmQpneqoaPiDQOnUK08M7YykwrF2CLd1D767C, memberName=최수진, memberGit=null, profileImage=/resources/images/memberProfile/member.png, enrollDate=2023-07-09 23:43:22, memberDeleteFG=N, socialEmail=null, accessToken=null, isSocialMember=0)]
+2023-07-10 09:46:00 [INFO] Running Time : 28ms
+2023-07-10 09:46:00 [INFO] End : ProjectMemberServiceImpl - searchmember
+---------------------------------------------
+
+2023-07-10 09:46:02 [INFO] 프로젝트멤버 초대
+2023-07-10 09:46:32 [INFO] 로그아웃 수행됨
+2023-07-10 09:46:56 [INFO] ---------------------------------------
+Start : MemberServiceImpl - emailDupCheck
+Parameter : [hohosuuuu@gmail.c]
+ip : 127.0.0.1
+2023-07-10 09:46:56 [INFO] ---------------------------------------
+Start : MemberServiceImpl - emailDupCheck
+Parameter : [hohosuuuu@gmail.co]
+ip : 127.0.0.1
+2023-07-10 09:46:56 [INFO] Return Value : 0
+2023-07-10 09:46:56 [INFO] Running Time : 44ms
+2023-07-10 09:46:56 [INFO] End : MemberServiceImpl - emailDupCheck
+---------------------------------------------
+
+2023-07-10 09:46:56 [INFO] Return Value : 0
+2023-07-10 09:46:56 [INFO] Running Time : 22ms
+2023-07-10 09:46:56 [INFO] End : MemberServiceImpl - emailDupCheck
+---------------------------------------------
+
+2023-07-10 09:46:57 [INFO] ---------------------------------------
+Start : MemberServiceImpl - emailDupCheck
+Parameter : [hohosuuuu@gmail.com]
+ip : 127.0.0.1
+2023-07-10 09:46:57 [INFO] Return Value : 0
+2023-07-10 09:46:57 [INFO] Running Time : 20ms
+2023-07-10 09:46:57 [INFO] End : MemberServiceImpl - emailDupCheck
+---------------------------------------------
+
+2023-07-10 09:47:02 [INFO] ---------------------------------------
+Start : MemberServiceImpl - insertCertification
+Parameter : [{inputEmail=hohosuuuu@gmail.com, cNumber=0mi820}]
+ip : 127.0.0.1
+2023-07-10 09:47:02 [INFO] Return Value : 1
+2023-07-10 09:47:02 [INFO] Running Time : 65ms
+2023-07-10 09:47:02 [INFO] End : MemberServiceImpl - insertCertification
+---------------------------------------------
+
+2023-07-10 09:47:18 [INFO] ---------------------------------------
+Start : MemberServiceImpl - checkNumber
+Parameter : [{inputEmail=hohosuuuu@gmail.com, cNumber=0mi820}]
+ip : 127.0.0.1
+2023-07-10 09:47:18 [INFO] Return Value : 1
+2023-07-10 09:47:18 [INFO] Running Time : 32ms
+2023-07-10 09:47:18 [INFO] End : MemberServiceImpl - checkNumber
+---------------------------------------------
+
+2023-07-10 09:47:21 [INFO] 회원가입 기능 수행됨
+2023-07-10 09:47:21 [INFO] ---------------------------------------
+Start : MemberServiceImpl - signUp
+Parameter : [Member(memberNo=0, memberEmail=hohosuuuu@gmail.com, memberPw=wlduddl33!, memberName=최수진, memberGit=null, profileImage=null, enrollDate=null, memberDeleteFG=null, socialEmail=null, accessToken=null, isSocialMember=null)]
+ip : 127.0.0.1
+2023-07-10 09:47:21 [DEBUG] 암호화 전 : wlduddl33! / 암호화 후 : $2a$10$z2jFGOGV1uMY2Z3MpfqrNeeiG/A9f7E/rZGd322jA3Fb/k/kFf9d.
+2023-07-10 09:47:21 [INFO] Return Value : 1
+2023-07-10 09:47:21 [INFO] Running Time : 203ms
+2023-07-10 09:47:21 [INFO] End : MemberServiceImpl - signUp
+---------------------------------------------
+
+2023-07-10 09:47:33 [INFO] 로그인 기능 수행됨
+2023-07-10 09:47:33 [INFO] ---------------------------------------
+Start : MemberServiceImpl - login
+Parameter : [Member(memberNo=0, memberEmail=hosuuuu@gmail.com, memberPw=wlduddl33!, memberName=null, memberGit=null, profileImage=null, enrollDate=null, memberDeleteFG=null, socialEmail=null, accessToken=null, isSocialMember=null)]
+ip : 127.0.0.1
+2023-07-10 09:47:33 [DEBUG] wlduddl33! / $2a$10$j7VL84tX2rRVroeY7WsfSerDjvYpMjSYyhaK9fIXCTkqVi9A2QN9.
+2023-07-10 09:47:33 [INFO] Return Value : null
+2023-07-10 09:47:33 [INFO] Running Time : 100ms
+2023-07-10 09:47:33 [INFO] End : MemberServiceImpl - login
+---------------------------------------------
+
+2023-07-10 09:47:46 [INFO] 로그인 기능 수행됨
+2023-07-10 09:47:46 [INFO] ---------------------------------------
+Start : MemberServiceImpl - login
+Parameter : [Member(memberNo=0, memberEmail=hohosuuuu@gmail.com, memberPw=wlduddl33!, memberName=null, memberGit=null, profileImage=null, enrollDate=null, memberDeleteFG=null, socialEmail=null, accessToken=null, isSocialMember=null)]
+ip : 127.0.0.1
+2023-07-10 09:47:46 [DEBUG] wlduddl33! / $2a$10$2VxHmR/ionyoxEz9uUmZCevpmUBiMP24iePxNVRmNDqCLixKetgMi
+2023-07-10 09:47:46 [INFO] Return Value : Member(memberNo=73, memberEmail=hohosuuuu@gmail.com, memberPw=null, memberName=최수진, memberGit=null, profileImage=/resources/images/memberProfile/member.png, enrollDate=2023-07-10 09:47:21, memberDeleteFG=null, socialEmail=null, accessToken=null, isSocialMember=null)
+2023-07-10 09:47:46 [INFO] Running Time : 209ms
+2023-07-10 09:47:46 [INFO] End : MemberServiceImpl - login
+---------------------------------------------
+
+2023-07-10 09:47:46 [INFO] ---------------------------------------
+Start : MemberServiceImpl - paymentDateCheck
+Parameter : [73]
+ip : 127.0.0.1
+2023-07-10 09:47:46 [INFO] Return Value : 0
+2023-07-10 09:47:46 [INFO] Running Time : 29ms
+2023-07-10 09:47:46 [INFO] End : MemberServiceImpl - paymentDateCheck
+---------------------------------------------
+
+2023-07-10 09:47:46 [DEBUG] paymentDateCheck = 0
+2023-07-10 09:47:46 [DEBUG] Member(memberNo=73, memberEmail=hohosuuuu@gmail.com, memberPw=null, memberName=최수진, memberGit=null, profileImage=/resources/images/memberProfile/member.png, enrollDate=2023-07-10 09:47:21, memberDeleteFG=null, socialEmail=null, accessToken=null, isSocialMember=null)로그인 성공시 로그인 멤버 정보
+2023-07-10 09:47:46 [INFO] ---------------------------------------
+Start : ProjectServiceImpl - selectMyProjectNo
+Parameter : [73]
+ip : 127.0.0.1
+2023-07-10 09:47:46 [INFO] Return Value : 0
+2023-07-10 09:47:46 [INFO] Running Time : 32ms
+2023-07-10 09:47:46 [INFO] End : ProjectServiceImpl - selectMyProjectNo
+---------------------------------------------
+
+2023-07-10 09:47:53 [INFO] 프로젝트 생성
+2023-07-10 09:47:53 [INFO] ---------------------------------------
+Start : ProjectServiceImpl - createProject
+Parameter : [Project(projectNo=0, projectName=dd, projectDescription=<p>ddd</p>, projectEmoji=😘, inviteCode=W4TUCe, projectDeleteFG=null, regDate=null, createMemberNo=73)]
+ip : 127.0.0.1 (email : hohosuuuu@gmail.com)
+2023-07-10 09:47:53 [INFO] Return Value : 1
+2023-07-10 09:47:53 [INFO] Running Time : 35ms
+2023-07-10 09:47:53 [INFO] End : ProjectServiceImpl - createProject
+---------------------------------------------
+
+2023-07-10 09:47:53 [INFO] pm manager 삽입 성공
+2023-07-10 09:47:53 [INFO] ---------------------------------------
+Start : ProjectServiceImpl - insertPmManager
+Parameter : [ProjectMember(pmNo=0, projectNo=432, memberNo=73, projectManager=null, pmST=null, regDate=null, profileImg=null)]
+ip : 127.0.0.1 (email : hohosuuuu@gmail.com)
+2023-07-10 09:47:53 [INFO] Return Value : 310
+2023-07-10 09:47:53 [INFO] Running Time : 28ms
+2023-07-10 09:47:53 [INFO] End : ProjectServiceImpl - insertPmManager
+---------------------------------------------
+
+2023-07-10 09:47:53 [INFO] ---------------------------------------
+Start : ChatServiceImpl - insertChatRoom
+Parameter : [ChatRoom(chatRoomNo=0, chatRoomTitle=dd, chatRoomST=null, projectNo=432, chatRoomType=1)]
+ip : 127.0.0.1 (email : hohosuuuu@gmail.com)
+2023-07-10 09:47:53 [INFO] Return Value : 449
+2023-07-10 09:47:53 [INFO] Running Time : 32ms
+2023-07-10 09:47:53 [INFO] End : ChatServiceImpl - insertChatRoom
+---------------------------------------------
+
+2023-07-10 09:47:53 [INFO] ---------------------------------------
+Start : ChatServiceImpl - insertChatRoomJoin
+Parameter : [ChatRoomJoin(pmNo=310, chatRoomNo=449)]
+ip : 127.0.0.1 (email : hohosuuuu@gmail.com)
+2023-07-10 09:47:53 [INFO] Return Value : 1
+2023-07-10 09:47:53 [INFO] Running Time : 20ms
+2023-07-10 09:47:53 [INFO] End : ChatServiceImpl - insertChatRoomJoin
+---------------------------------------------
+
+2023-07-10 09:47:53 [INFO] 310번 pm넘버 : 449번 프로젝트 채팅방 초대 성공
+2023-07-10 09:47:53 [INFO] ---------------------------------------
+Start : WorkspaceServiceImpl - createWorkspace
+Parameter : [Workspace(workspaceNo=0, projectNo=432, workspaceName=loadmap, workspaceEmoji=null, workspaceRegDate=null, workspaceDeleteST=null)]
+ip : 127.0.0.1 (email : hohosuuuu@gmail.com)
+2023-07-10 09:47:53 [INFO] Return Value : 520
+2023-07-10 09:47:53 [INFO] Running Time : 34ms
+2023-07-10 09:47:53 [INFO] End : WorkspaceServiceImpl - createWorkspace
+---------------------------------------------
+
+2023-07-10 09:47:53 [INFO] loadmap 워크스페이스 생성
+2023-07-10 09:47:53 [INFO] ---------------------------------------
+Start : WorkspaceServiceImpl - createWorkspace
+Parameter : [Workspace(workspaceNo=0, projectNo=432, workspaceName=calendar, workspaceEmoji=null, workspaceRegDate=null, workspaceDeleteST=null)]
+ip : 127.0.0.1 (email : hohosuuuu@gmail.com)
+2023-07-10 09:47:53 [INFO] Return Value : 521
+2023-07-10 09:47:53 [INFO] Running Time : 32ms
+2023-07-10 09:47:53 [INFO] End : WorkspaceServiceImpl - createWorkspace
+---------------------------------------------
+
+2023-07-10 09:47:53 [INFO] calendar 워크스페이스 생성
+2023-07-10 09:47:58 [INFO] 템플릿 생성
+2023-07-10 09:47:58 [INFO] 워크스페이스 생성
+2023-07-10 09:47:58 [INFO] ddd
+2023-07-10 09:47:58 [INFO] ---------------------------------------
+Start : WorkspaceServiceImpl - createWorkspace
+Parameter : [Workspace(workspaceNo=0, projectNo=432, workspaceName=ddd, workspaceEmoji=🤫, workspaceRegDate=null, workspaceDeleteST=null)]
+ip : 127.0.0.1 (email : hohosuuuu@gmail.com)
+2023-07-10 09:47:58 [INFO] Return Value : 522
+2023-07-10 09:47:58 [INFO] Running Time : 73ms
+2023-07-10 09:47:58 [INFO] End : WorkspaceServiceImpl - createWorkspace
+---------------------------------------------
+
+2023-07-10 09:47:58 [INFO] ---------------------------------------
+Start : ChatServiceImpl - insertChatRoom
+Parameter : [ChatRoom(chatRoomNo=0, chatRoomTitle=ddd, chatRoomST=null, projectNo=432, chatRoomType=2)]
+ip : 127.0.0.1 (email : hohosuuuu@gmail.com)
+2023-07-10 09:47:58 [INFO] Return Value : 450
+2023-07-10 09:47:58 [INFO] Running Time : 31ms
+2023-07-10 09:47:58 [INFO] End : ChatServiceImpl - insertChatRoom
+---------------------------------------------
+
+2023-07-10 09:47:58 [INFO] ---------------------------------------
+Start : ProjectMemberServiceImpl - selectPmNoList
+Parameter : [432]
+ip : 127.0.0.1 (email : hohosuuuu@gmail.com)
+2023-07-10 09:47:58 [INFO] Return Value : [310]
+2023-07-10 09:47:58 [INFO] Running Time : 22ms
+2023-07-10 09:47:58 [INFO] End : ProjectMemberServiceImpl - selectPmNoList
+---------------------------------------------
+
+2023-07-10 09:47:58 [INFO] ---------------------------------------
+Start : ChatServiceImpl - insertChatRoomJoin
+Parameter : [ChatRoomJoin(pmNo=310, chatRoomNo=450)]
+ip : 127.0.0.1 (email : hohosuuuu@gmail.com)
+2023-07-10 09:47:58 [INFO] Return Value : 1
+2023-07-10 09:47:58 [INFO] Running Time : 21ms
+2023-07-10 09:47:58 [INFO] End : ChatServiceImpl - insertChatRoomJoin
+---------------------------------------------
+
+2023-07-10 09:47:58 [INFO] 310번 pm넘버 : 450번 워크스페이스 채팅방 초대 성공
+2023-07-10 09:47:58 [INFO] ---------------------------------------
+Start : ProjectMemberServiceImpl - selectPmNo
+Parameter : [{memberNo=73, projectNo=432}]
+ip : 127.0.0.1 (email : hohosuuuu@gmail.com)
+2023-07-10 09:47:58 [INFO] Return Value : 310
+2023-07-10 09:47:58 [INFO] Running Time : 25ms
+2023-07-10 09:47:58 [INFO] End : ProjectMemberServiceImpl - selectPmNo
+---------------------------------------------
+
+2023-07-10 09:47:58 [INFO] ---------------------------------------
+Start : MemoServiceImpl - insertMemo
+Parameter : [Memo(memoNo=0, workspaceNo=522, pmNo=310, memoContent=null, memoRegDate=null, memoUpdateDate=null, memoBgColor=null, memoSt=null, memoType=workspace, memberName=null, profileImg=null)]
+ip : 127.0.0.1 (email : hohosuuuu@gmail.com)
+2023-07-10 09:47:58 [INFO] Return Value : 1
+2023-07-10 09:47:58 [INFO] Running Time : 21ms
+2023-07-10 09:47:58 [INFO] End : MemoServiceImpl - insertMemo
+---------------------------------------------
+
+2023-07-10 09:47:58 [INFO] 522첫번째 공용 메모장 생성
+2023-07-10 09:47:58 [INFO] ---------------------------------------
+Start : MemoServiceImpl - insertMemo
+Parameter : [Memo(memoNo=0, workspaceNo=522, pmNo=310, memoContent=null, memoRegDate=null, memoUpdateDate=null, memoBgColor=null, memoSt=null, memoType=workspace, memberName=null, profileImg=null)]
+ip : 127.0.0.1 (email : hohosuuuu@gmail.com)
+2023-07-10 09:47:58 [INFO] Return Value : 1
+2023-07-10 09:47:58 [INFO] Running Time : 18ms
+2023-07-10 09:47:58 [INFO] End : MemoServiceImpl - insertMemo
+---------------------------------------------
+
+2023-07-10 09:47:58 [INFO] 522두번째 공용 메모장 생성
+2023-07-10 09:47:58 [INFO] ---------------------------------------
+Start : ProjectMemberServiceImpl - selectPmNoList
+Parameter : [432]
+ip : 127.0.0.1 (email : hohosuuuu@gmail.com)
+2023-07-10 09:47:58 [INFO] Return Value : [310]
+2023-07-10 09:47:58 [INFO] Running Time : 18ms
+2023-07-10 09:47:58 [INFO] End : ProjectMemberServiceImpl - selectPmNoList
+---------------------------------------------
+
+2023-07-10 09:47:58 [INFO] ---------------------------------------
+Start : MemoServiceImpl - insertMemo
+Parameter : [Memo(memoNo=0, workspaceNo=522, pmNo=310, memoContent=null, memoRegDate=null, memoUpdateDate=null, memoBgColor=null, memoSt=null, memoType=personal, memberName=null, profileImg=null)]
+ip : 127.0.0.1 (email : hohosuuuu@gmail.com)
+2023-07-10 09:47:58 [INFO] Return Value : 1
+2023-07-10 09:47:58 [INFO] Running Time : 20ms
+2023-07-10 09:47:58 [INFO] End : MemoServiceImpl - insertMemo
+---------------------------------------------
+
+2023-07-10 09:47:58 [INFO] 522번워크스페이스 : 310회원의 첫번째 개인 메모장 생성
+2023-07-10 09:47:58 [INFO] ---------------------------------------
+Start : MemoServiceImpl - insertMemo
+Parameter : [Memo(memoNo=0, workspaceNo=522, pmNo=310, memoContent=null, memoRegDate=null, memoUpdateDate=null, memoBgColor=null, memoSt=null, memoType=personal, memberName=null, profileImg=null)]
+ip : 127.0.0.1 (email : hohosuuuu@gmail.com)
+2023-07-10 09:47:58 [INFO] Return Value : 1
+2023-07-10 09:47:58 [INFO] Running Time : 18ms
+2023-07-10 09:47:58 [INFO] End : MemoServiceImpl - insertMemo
+---------------------------------------------
+
+2023-07-10 09:47:58 [INFO] 522번워크스페이스 : 310회원의 번째 개인 메모장 생성
+2023-07-10 09:48:00 [INFO] ---------------------------------------
+Start : ProjectMemberServiceImpl - searchmember
+Parameter : []
+ip : 127.0.0.1 (email : hohosuuuu@gmail.com)
+2023-07-10 09:48:00 [INFO] Return Value : [Member(memberNo=51, memberEmail=hohosuu@naver.com, memberPw=null, memberName=최수진, memberGit=null, profileImage=https://phinf.pstatic.net/contact/20220815_206/1660536568502X3Tdj_PNG/profileImage.png, enrollDate=2023-07-09 22:39:31, memberDeleteFG=N, socialEmail=hohosuu@naver.com, accessToken=AAAANyG-PcXuOb1KQqtF9qY9tXJgSzw6sA_nTcqjhugarIYFbd2HXdohEiD-1GSTyaim2kvLVufwp4sRWp4IRZFJci0, isSocialMember=1), Member(memberNo=64, memberEmail=rlaalstn9097@naver.com, memberPw=$2a$10$RZkPzQDOICTGLXsI2jF8iekNdjffH/H6c5TQsu9d7iUJL5n9.VaDm, memberName=김민수네이버, memberGit=null, profileImage=/resources/images/memberProfile/20230710003523_45882.jpg, enrollDate=2023-07-09 23:09:22, memberDeleteFG=N, socialEmail=null, accessToken=null, isSocialMember=0), Member(memberNo=53, memberEmail=deok_k91@naver.com, memberPw=null, memberName=김덕근, memberGit=null, profileImage=https://ssl.pstatic.net/static/pwe/address/img_profile.png, enrollDate=2023-07-09 22:54:45, memberDeleteFG=N, socialEmail=deok_k91@naver.com, accessToken=AAAAOB4Zmw4BC8sB0Vfilc71xGZH5MOxaqzpcIDaTk6EZ9ruWzFB7Lx705qxY-0SRPaary7Iheqfu5IcWAcdOpZrRx0, isSocialMember=1), Member(memberNo=50, memberEmail=deokk91@gmail.com, memberPw=$2a$10$Zz0O..4E0WyrEZ7ThY8ShuGkPmJzAXor037cotCv4bXOCcGtZGyNy, memberName=김덕근, memberGit=null, profileImage=/resources/images/memberProfile/20230709223925_87374.jpeg, enrollDate=2023-07-09 22:35:02, memberDeleteFG=N, socialEmail=null, accessToken=null, isSocialMember=0), Member(memberNo=63, memberEmail=mskim9097@gmail.com, memberPw=null, memberName=김민수, memberGit=null, profileImage=/resources/images/memberProfile/20230710003446_33003.jpg, enrollDate=2023-07-09 23:04:24, memberDeleteFG=N, socialEmail=mskim9097@gmail.com, accessToken=AAAAPJbHgQl9jdD-_4eVFljhk-UHl6-lOXH-aWILaYklEA8ToALQPow6DPy1x4dCHxjX8NwU1ZUyqRbIQB_4a7wanoU, isSocialMember=1), Member(memberNo=65, memberEmail=98chltnwls@gmail.com, memberPw=$2a$10$VSbcED3EpljKHFDmpmQpneqoaPiDQOnUK08M7YykwrF2CLd1D767C, memberName=최수진, memberGit=null, profileImage=/resources/images/memberProfile/member.png, enrollDate=2023-07-09 23:43:22, memberDeleteFG=N, socialEmail=null, accessToken=null, isSocialMember=0), Member(memberNo=66, memberEmail=csw454545@gmail.com, memberPw=$2a$10$1GiS8./OAwXZ/568WDQYZuL345SG1A6ylAV0gdDwSMyKLmWFTDiFe, memberName=csw, memberGit=null, profileImage=/resources/images/memberProfile/member.png, enrollDate=2023-07-10 00:52:56, memberDeleteFG=Y, socialEmail=null, accessToken=null, isSocialMember=0), Member(memberNo=67, memberEmail=jjewwi12@gmail.com, memberPw=$2a$10$4LEAHh0U7We1cEO1uRaMHO8fAlCoCIG3FvaIVspd4FTG94vzvVji., memberName=이지윤, memberGit=null, profileImage=/resources/images/memberProfile/member.png, enrollDate=2023-07-10 03:00:36, memberDeleteFG=N, socialEmail=null, accessToken=null, isSocialMember=0), Member(memberNo=68, memberEmail=csw454545@gmail.com, memberPw=$2a$10$TXEVbuI7plP2QMSYKuymVetyzf0ERtcMUapW49kLS8K9/XSK7dM12, memberName=테스트맨, memberGit=null, profileImage=/resources/images/memberProfile/member.png, enrollDate=2023-07-10 07:11:27, memberDeleteFG=Y, socialEmail=null, accessToken=null, isSocialMember=0), Member(memberNo=69, memberEmail=csw454545@gmailc.com, memberPw=$2a$10$0sjXYWvVKpTmpkxhc0IFg.nWvwzTWTwr8/YXaj5VoKw9k6c5TNUjq, memberName=테스트맨, memberGit=null, profileImage=/resources/images/memberProfile/member.png, enrollDate=2023-07-10 07:39:00, memberDeleteFG=N, socialEmail=null, accessToken=null, isSocialMember=0), Member(memberNo=70, memberEmail=csw454545@gmail.com, memberPw=$2a$10$htTHaOn.zQpRWLbI1woGj./9OoqgXrTL3AYE8Zqzy.UtnnNKZihhO, memberName=테스트맨, memberGit=null, profileImage=/resources/images/memberProfile/member.png, enrollDate=2023-07-10 07:40:39, memberDeleteFG=Y, socialEmail=null, accessToken=null, isSocialMember=0), Member(memberNo=71, memberEmail=whos1145@naver.com, memberPw=$2a$10$rSyp2fUhKwfScyvQvxFDLOG7uu9J6XhQxRcPoRbeQ8SUvt.NoO4zm, memberName=테스트맨, memberGit=null, profileImage=/resources/images/memberProfile/member.png, enrollDate=2023-07-10 07:49:10, memberDeleteFG=N, socialEmail=null, accessToken=null, isSocialMember=0), Member(memberNo=72, memberEmail=lkayl9413@gmail.com, memberPw=$2a$10$2RfQqOn4.Qfdn3MHNkWNo.OGk4fBZw9GwjynPIOwztkOEr43S9nuS, memberName=정성훈, memberGit=null, profileImage=/resources/images/memberProfile/member.png, enrollDate=2023-07-10 09:19:15, memberDeleteFG=N, socialEmail=null, accessToken=null, isSocialMember=0), Member(memberNo=73, memberEmail=hohosuuuu@gmail.com, memberPw=$2a$10$XqbjjvfOyLXtMw4Odf9Z8e.kqC7oxNnHcTmsa8EBts9jK7CKRNjgu, memberName=최수진, memberGit=null, profileImage=/resources/images/memberProfile/member.png, enrollDate=2023-07-10 09:47:21, memberDeleteFG=N, socialEmail=null, accessToken=null, isSocialMember=0)]
+2023-07-10 09:48:00 [INFO] Running Time : 38ms
+2023-07-10 09:48:00 [INFO] End : ProjectMemberServiceImpl - searchmember
+---------------------------------------------
+
+2023-07-10 09:48:00 [INFO] ---------------------------------------
+Start : ProjectMemberServiceImpl - searchmember
+Parameter : [초]
+ip : 127.0.0.1 (email : hohosuuuu@gmail.com)
+2023-07-10 09:48:00 [INFO] Return Value : []
+2023-07-10 09:48:00 [INFO] Running Time : 19ms
+2023-07-10 09:48:00 [INFO] End : ProjectMemberServiceImpl - searchmember
+---------------------------------------------
+
+2023-07-10 09:48:00 [INFO] ---------------------------------------
+Start : ProjectMemberServiceImpl - searchmember
+Parameter : [최]
+ip : 127.0.0.1 (email : hohosuuuu@gmail.com)
+2023-07-10 09:48:00 [INFO] Return Value : [Member(memberNo=51, memberEmail=hohosuu@naver.com, memberPw=null, memberName=최수진, memberGit=null, profileImage=https://phinf.pstatic.net/contact/20220815_206/1660536568502X3Tdj_PNG/profileImage.png, enrollDate=2023-07-09 22:39:31, memberDeleteFG=N, socialEmail=hohosuu@naver.com, accessToken=AAAANyG-PcXuOb1KQqtF9qY9tXJgSzw6sA_nTcqjhugarIYFbd2HXdohEiD-1GSTyaim2kvLVufwp4sRWp4IRZFJci0, isSocialMember=1), Member(memberNo=65, memberEmail=98chltnwls@gmail.com, memberPw=$2a$10$VSbcED3EpljKHFDmpmQpneqoaPiDQOnUK08M7YykwrF2CLd1D767C, memberName=최수진, memberGit=null, profileImage=/resources/images/memberProfile/member.png, enrollDate=2023-07-09 23:43:22, memberDeleteFG=N, socialEmail=null, accessToken=null, isSocialMember=0), Member(memberNo=73, memberEmail=hohosuuuu@gmail.com, memberPw=$2a$10$XqbjjvfOyLXtMw4Odf9Z8e.kqC7oxNnHcTmsa8EBts9jK7CKRNjgu, memberName=최수진, memberGit=null, profileImage=/resources/images/memberProfile/member.png, enrollDate=2023-07-10 09:47:21, memberDeleteFG=N, socialEmail=null, accessToken=null, isSocialMember=0)]
+2023-07-10 09:48:00 [INFO] Running Time : 27ms
+2023-07-10 09:48:00 [INFO] End : ProjectMemberServiceImpl - searchmember
+---------------------------------------------
+
+2023-07-10 09:48:00 [INFO] ---------------------------------------
+Start : ProjectMemberServiceImpl - searchmember
+Parameter : [최]
+ip : 127.0.0.1 (email : hohosuuuu@gmail.com)
+2023-07-10 09:48:00 [INFO] Return Value : [Member(memberNo=51, memberEmail=hohosuu@naver.com, memberPw=null, memberName=최수진, memberGit=null, profileImage=https://phinf.pstatic.net/contact/20220815_206/1660536568502X3Tdj_PNG/profileImage.png, enrollDate=2023-07-09 22:39:31, memberDeleteFG=N, socialEmail=hohosuu@naver.com, accessToken=AAAANyG-PcXuOb1KQqtF9qY9tXJgSzw6sA_nTcqjhugarIYFbd2HXdohEiD-1GSTyaim2kvLVufwp4sRWp4IRZFJci0, isSocialMember=1), Member(memberNo=65, memberEmail=98chltnwls@gmail.com, memberPw=$2a$10$VSbcED3EpljKHFDmpmQpneqoaPiDQOnUK08M7YykwrF2CLd1D767C, memberName=최수진, memberGit=null, profileImage=/resources/images/memberProfile/member.png, enrollDate=2023-07-09 23:43:22, memberDeleteFG=N, socialEmail=null, accessToken=null, isSocialMember=0), Member(memberNo=73, memberEmail=hohosuuuu@gmail.com, memberPw=$2a$10$XqbjjvfOyLXtMw4Odf9Z8e.kqC7oxNnHcTmsa8EBts9jK7CKRNjgu, memberName=최수진, memberGit=null, profileImage=/resources/images/memberProfile/member.png, enrollDate=2023-07-10 09:47:21, memberDeleteFG=N, socialEmail=null, accessToken=null, isSocialMember=0)]
+2023-07-10 09:48:00 [INFO] Running Time : 21ms
+2023-07-10 09:48:00 [INFO] End : ProjectMemberServiceImpl - searchmember
+---------------------------------------------
+
+2023-07-10 09:48:05 [INFO] 프로젝트멤버 초대
+2023-07-10 09:48:05 [INFO] 98chltnwls@gmail.com
+2023-07-10 09:48:08 [INFO] hohosuu@naver.com
+2023-07-10 10:47:23 [INFO] 초기화 필터 파괴
